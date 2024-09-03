@@ -6,9 +6,6 @@ plt.plot(x, np.sin(x))
 plt.show()
 
 print("Hi there!")
-
-print('Hi again!')
-
 #create a virtual environment
     #python3 -m venv ____
 #activate your VE
